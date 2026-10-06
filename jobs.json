@@ -66,18 +66,37 @@
   "ai": {
    "day": "2026-10-06",
    "used": {
-    "openai/gpt-4.1": 1
+    "high": 0,
+    "low": 0
    },
    "apps": 0,
-   "calls": 1
+   "calls": 1,
+   "blocked": {},
+   "packs": 0
   },
   "maint": "2026-10-06",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
-  ]
+  ],
+  "outbox_tries": {},
+  "site_hash": "ba0c7a62ee07a4196f0e0741b6bef6f47977b3fd2c47d1b558c4b233d09f6638",
+  "site_time": "2026-10-06T09:56:44.939569+00:00"
  },
  "jobs": [
+  {
+   "title": "https://inbox/strabag.txt",
+   "info": "added by you",
+   "link": "https://inbox/strabag.txt",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Added by you",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Senior Drupal Infrastructure Engineer",
    "info": "via unvacancies · engineering",
@@ -296,7 +315,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -309,7 +328,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -322,7 +341,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-10-06",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -348,7 +367,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -361,7 +380,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -387,7 +406,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -439,7 +458,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -452,7 +471,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -465,7 +484,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -478,7 +497,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -530,7 +549,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-10-06",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -543,7 +562,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -556,7 +575,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -569,7 +588,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -595,7 +614,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-10-06",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -608,7 +627,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -621,7 +640,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -634,7 +653,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-10-06",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -647,7 +666,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-10-06",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
@@ -660,7 +679,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   }
  ]
