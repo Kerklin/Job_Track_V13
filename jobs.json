@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-06T1"
+    "muted": "2026-10-07T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-06T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-07",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-07",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -80,10 +80,114 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "a002b99be85490315d78d20f41cf024573b2532868c125227a5201a90f3954e7",
-  "site_time": "2026-10-07T00:44:52.983593+00:00"
+  "site_hash": "207520641387e492b3b687978aeb8437024594b0fe27ce8838e660648ec3b319",
+  "site_time": "2026-10-07T06:35:05.361028+00:00"
  },
  "jobs": [
+  {
+   "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925",
+   "deadline": "2026-10-20",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Foundry Technical Engineering Lead",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/foundry-technical-engineering-lead-68556004",
+   "deadline": "2026-10-15",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "ENGINEER, P4",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791352896943",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791352893661",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Engineer, Dodoma, Tanzania",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791349295461",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791345738022",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791125088299",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Skills Adviser Building, Construction & Workforce Development",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791176514795",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "https://inbox/strabag.txt",
    "info": "added by you",
