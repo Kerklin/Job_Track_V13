@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-08T0"
+    "muted": "2026-10-08T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -80,10 +80,36 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "a2715d29de0e135d24f9725c4ad22f9e575202b6e3be5c972450b57ff9fb8d43",
-  "site_time": "2026-10-08T18:50:04.804698+00:00"
+  "site_hash": "e1a3eac995bd8cef60919fb752dbd75a743351f9ff03a8959e4937cef571cbef",
+  "site_time": "2026-10-08T23:36:26.853945+00:00"
  },
  "jobs": [
+  {
+   "title": "Technical Program Manager, San Jose, California, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791464597902",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439393965",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)",
    "info": "via UNICEF · construction",
