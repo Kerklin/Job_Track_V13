@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-07T3"
+    "muted": "2026-10-08T3"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-07T3"
+    "muted": "2026-10-08T3"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-08",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    }
   },
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "57d44ea7bd9703833cfc2d944f1103f4ca32d7927cda9e4713ee11f49d179f03",
-  "site_time": "2026-10-08T12:06:21.406579+00:00"
+  "site_hash": "a2715d29de0e135d24f9725c4ad22f9e575202b6e3be5c972450b57ff9fb8d43",
+  "site_time": "2026-10-08T18:50:04.804698+00:00"
  },
  "jobs": [
+  {
+   "title": "Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa",
+   "deadline": "2026-10-18",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
    "info": "via UNjobs · construction",
