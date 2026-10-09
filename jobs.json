@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-09T0"
+    "muted": "2026-10-09T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-09T0"
+    "muted": "2026-10-09T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -80,10 +80,36 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "3e37693c32fc88054009955102e8eeb93164a4ca853bb85d77dec05839e9b005",
-  "site_time": "2026-10-09T17:09:25.898627+00:00"
+  "site_hash": "a80ac50ff0619110e54cf4489d4c8bbb8c5f62d3ef310054a7460fabfb1a357d",
+  "site_time": "2026-10-09T21:41:52.409289+00:00"
  },
  "jobs": [
+  {
+   "title": "WASH Supervisor - Tyre, Tyre, Lebanon",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791556268009",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Facility Engineer (Civil), Aden, Yemen",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791522065800",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
