@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-07T0"
+    "muted": "2026-10-09T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-07T0"
+    "muted": "2026-10-09T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,7 +64,7 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-08",
+   "day": "2026-10-09",
    "used": {
     "high": 0,
     "low": 0
@@ -74,16 +74,68 @@
    "blocked": {},
    "packs": 0
   },
-  "maint": "2026-10-08",
+  "maint": "2026-10-09",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "e1a3eac995bd8cef60919fb752dbd75a743351f9ff03a8959e4937cef571cbef",
-  "site_time": "2026-10-08T23:36:26.853945+00:00"
+  "site_hash": "3e37693c32fc88054009955102e8eeb93164a4ca853bb85d77dec05839e9b005",
+  "site_time": "2026-10-09T03:04:41.241654+00:00"
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791464823412",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791439395420",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791439391453",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Vodokanal Cell Lead (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791439391194",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Technical Program Manager, San Jose, California, United States",
    "info": "via UNjobs · construction",
@@ -171,7 +223,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -184,7 +236,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -197,7 +249,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -210,7 +262,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -223,7 +275,7 @@
    "note": "Found automatically (15 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -233,10 +285,10 @@
    "link": "https://unjobs.org/vacancies/1791345738022",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -249,7 +301,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -262,7 +314,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -275,7 +327,7 @@
    "note": "Added by you",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -288,7 +340,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -301,7 +353,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -314,7 +366,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -324,10 +376,10 @@
    "link": "https://unjobs.org/vacancies/1790801308669",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -340,7 +392,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -847,7 +899,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-09",
    "pack": "needs-link",
    "tries": 0
   },
