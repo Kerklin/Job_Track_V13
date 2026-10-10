@@ -6,7 +6,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,500 are used. Shorten older roles**
 
-**63 open jobs** (🟢 20 · 🟡 27 · ⚪ 16) · AI today: 0 of 160 requests · 0 packs · 45 waiting (≈ 1 day(s)) · updated 2026-10-10 · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V13/)**
+**63 open jobs** (🟢 20 · 🟡 27 · ⚪ 16) · AI today: 0 of 160 requests · 0 packs · 45 waiting (≈ 1 day(s)) · updated 2026-10-10 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V13/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -119,10 +119,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-10 |
 | unvacancies · UNOPS | 2026-10-09 |
 | unvacancies · UN-Habitat | 2026-10-09 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-08 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-10 |
 | UNjobs · construction | 2026-10-10 |
 | UNjobs · infrastructure projects | 2026-10-09 |
 | UNOPS careers | 2026-10-09 |
-| UNICEF · construction | 2026-10-08 |
+| UNICEF · construction | 2026-10-10 |
 
 </details>
