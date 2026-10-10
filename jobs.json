@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-08T3"
+    "muted": "2026-10-10T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-08T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-10",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-10",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,7 +64,7 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-09",
+   "day": "2026-10-10",
    "used": {
     "high": 0,
     "low": 0
@@ -74,16 +74,55 @@
    "blocked": {},
    "packs": 0
   },
-  "maint": "2026-10-09",
+  "maint": "2026-10-10",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "a80ac50ff0619110e54cf4489d4c8bbb8c5f62d3ef310054a7460fabfb1a357d",
-  "site_time": "2026-10-09T21:41:52.409289+00:00"
+  "site_hash": "28fa5f919e1c3958def74e540b6abb37b90243b33b78f4b04577f58d891c0c5f",
+  "site_time": "2026-10-10T01:18:30.735745+00:00"
  },
  "jobs": [
+  {
+   "title": "Shelter Coordinator South Sudan Ulang, Juba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565246881",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter Officer South Sudan Ulang, Juba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565246494",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Wash & Shelter Officer CAR Bouar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565245476",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH Supervisor - Tyre, Tyre, Lebanon",
    "info": "via UNjobs · infrastructure projects",
@@ -171,7 +210,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -184,7 +223,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -197,7 +236,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -210,7 +249,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -223,7 +262,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -236,7 +275,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -431,7 +470,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -444,7 +483,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -457,7 +496,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -470,7 +509,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -483,7 +522,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -496,7 +535,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -509,7 +548,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -519,10 +558,10 @@
    "link": "https://unjobs.org/vacancies/1791190732675",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-10)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -535,7 +574,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
