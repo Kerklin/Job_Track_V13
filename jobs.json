@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-10T0"
+    "muted": "2026-10-10T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "28fa5f919e1c3958def74e540b6abb37b90243b33b78f4b04577f58d891c0c5f",
-  "site_time": "2026-10-10T01:18:30.735745+00:00"
+  "site_hash": "875662579e56d81c4f7b81bd610e7baf31d0e1706df7fa9e616bd3d75806721a",
+  "site_time": "2026-10-10T07:18:46.384819+00:00"
  },
  "jobs": [
+  {
+   "title": "Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791608868643",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Shelter Coordinator South Sudan Ulang, Juba",
    "info": "via UNjobs · construction",
