@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-09T3"
+    "muted": "2026-10-11T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-09T3"
+    "muted": "2026-10-11T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-09",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-09",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "UNOPS careers": {
@@ -80,10 +80,36 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "5339bc4fc2d652f1767095f3cf97395877ea78f9985a6a9383e3c9e1aa428855",
-  "site_time": "2026-10-11T13:25:58.488106+00:00"
+  "site_hash": "d51a475433a818473e2f023caa80cd2f8115a358c424ae6363bf2cfc7b71bdb3",
+  "site_time": "2026-10-11T18:23:27.350646+00:00"
  },
  "jobs": [
+  {
+   "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791602789331",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-11",
+   "status": "open",
+   "checked": "2026-10-11",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791602788994",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-11",
+   "status": "open",
+   "checked": "2026-10-11",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan",
    "info": "via UNjobs · construction",
