@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-10T1"
+    "muted": "2026-10-11T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-10T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-10",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-10",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,7 +64,7 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-10",
+   "day": "2026-10-11",
    "used": {
     "high": 0,
     "low": 0
@@ -74,16 +74,42 @@
    "blocked": {},
    "packs": 0
   },
-  "maint": "2026-10-10",
+  "maint": "2026-10-11",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "875662579e56d81c4f7b81bd610e7baf31d0e1706df7fa9e616bd3d75806721a",
-  "site_time": "2026-10-10T21:51:42.127719+00:00"
+  "site_hash": "5339bc4fc2d652f1767095f3cf97395877ea78f9985a6a9383e3c9e1aa428855",
+  "site_time": "2026-10-11T00:38:32.669967+00:00"
  },
  "jobs": [
+  {
+   "title": "SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791395387894",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-11",
+   "status": "open",
+   "checked": "2026-10-11",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture) – Housing Improvements, Niterói, Brazil",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791633706500",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-11",
+   "status": "open",
+   "checked": "2026-10-11",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine",
    "info": "via UNjobs · construction",
@@ -600,7 +626,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -613,7 +639,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -652,7 +678,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "needs-link",
    "tries": 0
   },
@@ -665,7 +691,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "retry",
    "tries": 1
   },
@@ -704,7 +730,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -730,7 +756,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -743,7 +769,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -756,7 +782,7 @@
    "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -821,7 +847,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -834,7 +860,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -847,7 +873,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -860,7 +886,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "needs-link",
    "tries": 0
   },
@@ -912,7 +938,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -925,7 +951,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "needs-link",
    "tries": 0
   },
@@ -964,7 +990,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "needs-link",
    "tries": 0
   },
