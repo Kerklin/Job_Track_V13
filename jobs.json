@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-11T3"
+    "muted": "2026-10-12T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-11T3"
+    "muted": "2026-10-12T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    },
    "UNOPS careers": {
@@ -80,10 +80,49 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "4dcf1a36b7edfef242ef496fe5d5e934e6919ed14f26193819f08e539bd160af",
-  "site_time": "2026-10-12T07:52:42.505630+00:00"
+  "site_hash": "278be05c8ec5d874a237404748cfc20cc93b938792fb77c6e2d8a11cbe3965ef",
+  "site_time": "2026-10-12T17:22:37.520674+00:00"
  },
  "jobs": [
+  {
+   "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791805949717",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-12",
+   "status": "open",
+   "checked": "2026-10-12",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791806017218",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-12",
+   "status": "open",
+   "checked": "2026-10-12",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "National Building Code Adviser - STA",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791781328274",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-12",
+   "status": "open",
+   "checked": "2026-10-12",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Field Engineer COFAREADY, Koror",
    "info": "via UNjobs · construction",
