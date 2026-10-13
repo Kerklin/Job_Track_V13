@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-13T0"
+    "muted": "2026-10-13T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -80,10 +80,36 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "bf91267e81045ddf6e74085dc3412925f991c0e020a2cb6cc466a7a676c2b30e",
-  "site_time": "2026-10-13T03:56:29.464404+00:00"
+  "site_hash": "47f4c98c8436fb0689495fedc38ee3efb160c87015cbfaafbf32214cffa48972",
+  "site_time": "2026-10-13T11:39:05.444693+00:00"
  },
  "jobs": [
+  {
+   "title": "National Field Engineer (3 Positions), Bangui",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791885638187",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Director of Engineering (Hardware), Dartmouth, Canada",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791867645964",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Sanitation Engineer (Drainage Project)",
    "info": "via unvacancies · engineering",
