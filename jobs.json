@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-11T3"
+    "muted": "2026-10-13T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-12T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,7 +64,7 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-12",
+   "day": "2026-10-13",
    "used": {
     "high": 0,
     "low": 0
@@ -74,16 +74,68 @@
    "blocked": {},
    "packs": 0
   },
-  "maint": "2026-10-12",
-  "vcheck": "2026-10-06",
+  "maint": "2026-10-13",
+  "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "278be05c8ec5d874a237404748cfc20cc93b938792fb77c6e2d8a11cbe3965ef",
-  "site_time": "2026-10-12T23:43:30.326268+00:00"
+  "site_hash": "bf91267e81045ddf6e74085dc3412925f991c0e020a2cb6cc466a7a676c2b30e",
+  "site_time": "2026-10-13T03:56:29.464404+00:00"
  },
  "jobs": [
+  {
+   "title": "Sanitation Engineer (Drainage Project)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289",
+   "deadline": "2026-10-16",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791824450489",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Manager, Facilities Transportation, Alamo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791644019637",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Education Infrastructure Engineer, Damascus",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791813713952",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
    "info": "via UNjobs · infrastructure projects",
@@ -223,7 +275,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -236,7 +288,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -249,7 +301,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -262,7 +314,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -353,7 +405,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -366,7 +418,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -379,7 +431,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -392,7 +444,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -405,7 +457,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -418,7 +470,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -561,7 +613,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -574,7 +626,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -597,10 +649,10 @@
    "link": "https://unjobs.org/vacancies/1789649136938",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-10-13)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-09",
+   "status": "removed",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -613,7 +665,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -1107,7 +1159,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-13",
    "pack": "needs-link",
    "tries": 0
   },
