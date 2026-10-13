@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-12T1"
+    "muted": "2026-10-13T3"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-12T1"
+    "muted": "2026-10-13T3"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-13",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-13",
     "muted": ""
    }
   },
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "47f4c98c8436fb0689495fedc38ee3efb160c87015cbfaafbf32214cffa48972",
-  "site_time": "2026-10-13T11:39:05.444693+00:00"
+  "site_hash": "9e6f3124833176c7a98a73fc46862da80e53561b384198122a0ee297710d9b73",
+  "site_time": "2026-10-13T18:31:12.258117+00:00"
  },
  "jobs": [
+  {
+   "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal",
+   "deadline": "2026-10-22",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "National Field Engineer (3 Positions), Bangui",
    "info": "via UNjobs · construction",
