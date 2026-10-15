@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-15T0"
+    "muted": "2026-10-15T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -80,10 +80,127 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "4436ea54ea2084b5c05958c246c7b9388b2529fd713a7d51b57993731a3b2f5e",
-  "site_time": "2026-10-15T14:08:14.844291+00:00"
+  "site_hash": "0840de87a37506dd43dcd8bf1d1d35d2e7e2244cdcc804a3f9bb5c97a2d4b584",
+  "site_time": "2026-10-15T18:18:20.393094+00:00"
  },
  "jobs": [
+  {
+   "title": "WASH Officer CAR Kaga Bandoro, Kaga-Bandoro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792083873447",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792083872868",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Project Engineer – Solar & BESS, Brisbane, CA, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792029648292",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "NBC Urban Designer - International Consultant, Beirut, Lebanon",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792065675186",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Assistant(e) SWI (Shelter, WaSH and Infrastructure), Aru, Mahagi, Democratic Republic Of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791867668525",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, Democratic Republic Of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791867670024",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja, Aru, Democratic Republic Of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791867671241",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter and Settlement Officer, Nyirol, South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791910842362",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Officer, Uror, Jonglei State, South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791910843244",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
    "info": "via UNjobs · infrastructure projects",
