@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-13T1"
+    "muted": "2026-10-15T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-14T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,7 +64,7 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-14",
+   "day": "2026-10-15",
    "used": {
     "high": 0,
     "low": 0
@@ -74,16 +74,68 @@
    "blocked": {},
    "packs": 0
   },
-  "maint": "2026-10-14",
+  "maint": "2026-10-15",
   "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "b323611b4cfe9124b0ed0a85ac2992ff3f5cba181b1b4edb0bf1986de6f9f3d0",
-  "site_time": "2026-10-14T23:54:46.147454+00:00"
+  "site_hash": "9fa94132dbba42f425a828cc11d80f4d6f5534d7025f8a7f61fad920d40a1514",
+  "site_time": "2026-10-15T03:55:47.935947+00:00"
  },
  "jobs": [
+  {
+   "title": "Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual), Washington, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792000206614",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Facilities Officer (Residential Real Estate Services) - CSFDF (Contractual), Washington, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792000272222",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter and Settlement Assistant, Nyirol, South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791910845431",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Wash Technical Assistant Ethiopia North Afar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791997248968",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
    "info": "via UNICEF · construction",
@@ -184,7 +236,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-12",
+   "checked": "2026-10-15",
    "pack": "",
    "tries": 0
   },
@@ -834,7 +886,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "",
    "tries": 0
   },
@@ -873,7 +925,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "needs-link",
    "tries": 0
   },
@@ -886,7 +938,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "retry",
    "tries": 1
   },
@@ -925,7 +977,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "",
    "tries": 0
   },
@@ -951,7 +1003,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "",
    "tries": 0
   },
@@ -964,7 +1016,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "",
    "tries": 0
   },
@@ -977,7 +1029,7 @@
    "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "",
    "tries": 0
   },
@@ -1042,7 +1094,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "",
    "tries": 0
   },
@@ -1055,7 +1107,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "",
    "tries": 0
   },
@@ -1068,7 +1120,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "",
    "tries": 0
   },
@@ -1081,7 +1133,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "needs-link",
    "tries": 0
   },
@@ -1133,7 +1185,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "",
    "tries": 0
   },
@@ -1146,7 +1198,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "needs-link",
    "tries": 0
   },
@@ -1185,7 +1237,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-15",
    "pack": "needs-link",
    "tries": 0
   },
