@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-12T3"
+    "muted": "2026-10-15T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-12T3"
+    "muted": "2026-10-15T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "UNOPS careers": {
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "9fa94132dbba42f425a828cc11d80f4d6f5534d7025f8a7f61fad920d40a1514",
-  "site_time": "2026-10-15T03:55:47.935947+00:00"
+  "site_hash": "4436ea54ea2084b5c05958c246c7b9388b2529fd713a7d51b57993731a3b2f5e",
+  "site_time": "2026-10-15T09:03:19.846377+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791900091937",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual), Washington, United States",
    "info": "via UNjobs · construction",

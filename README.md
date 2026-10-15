@@ -6,7 +6,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,500 are used. Shorten older roles**
 
-**70 open jobs** (🟢 26 · 🟡 32 · ⚪ 12) · AI today: 0 of 160 requests · 0 packs · 57 waiting (≈ 1 day(s)) · updated 2026-10-15 · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V13/)**
+**71 open jobs** (🟢 26 · 🟡 33 · ⚪ 12) · AI today: 0 of 160 requests · 0 packs · 58 waiting (≈ 1 day(s)) · updated 2026-10-15 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V13/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -46,6 +46,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) 🆕 | via UNICEF · construction | 2026-10-22 | 🔴 7 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 15 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 23 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1791900091937) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual), Washington, United States](https://unjobs.org/vacancies/1792000206614) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Facilities Officer (Residential Real Estate Services) - CSFDF (Contractual), Washington, United States](https://unjobs.org/vacancies/1792000272222) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Shelter and Settlement Assistant, Nyirol, South Sudan](https://unjobs.org/vacancies/1791910845431) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
@@ -138,11 +139,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-15 |
-| unvacancies · UNOPS | 2026-10-12 |
+| unvacancies · UNOPS | 2026-10-15 |
 | unvacancies · UN-Habitat | 2026-10-14 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-14 |
 | UNjobs · construction | 2026-10-15 |
-| UNjobs · infrastructure projects | 2026-10-12 |
+| UNjobs · infrastructure projects | 2026-10-15 |
 | UNOPS careers | 2026-10-14 |
 | UNICEF · construction | 2026-10-14 |
 
