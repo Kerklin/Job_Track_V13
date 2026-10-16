@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-16T1"
+    "muted": "2026-10-16T2"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-16T1"
+    "muted": "2026-10-16T2"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-15",
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "61284b5085ac2ef94238ce6f885f889ed9efe932e0bd498982ffc820f2f135eb",
-  "site_time": "2026-10-16T07:14:03.136398+00:00"
+  "site_hash": "844f70c3d31a776b03ba7ce67fdbc1d33fea9226a709256db09438fd609211d6",
+  "site_time": "2026-10-16T12:31:37.866370+00:00"
  },
  "jobs": [
+  {
+   "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1792144906524",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH Officer CAR Kaga Bandoro, Kaga-Bandoro",
    "info": "via UNjobs · construction",
