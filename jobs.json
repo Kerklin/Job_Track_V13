@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-15T1"
+    "muted": "2026-10-16T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-15T1"
+    "muted": "2026-10-16T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "UNOPS careers": {
@@ -80,10 +80,36 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "ec47dd560195c6fedc62679817e20d6a1f96d1478f9a41d2241b1d75afe1268b",
-  "site_time": "2026-10-16T19:50:29.424370+00:00"
+  "site_hash": "d8537a076ed1592fb5aa164f754a67741f543f95cb18edda6fbf7d2269833553",
+  "site_time": "2026-10-16T22:21:31.555715+00:00"
  },
  "jobs": [
+  {
+   "title": "ICT Project Manager",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792166486232",
+   "deadline": "2026-11-01",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure) – GEDSI, Climate & DRR",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792126888214",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Civil Engineer/Architect",
    "info": "via unvacancies · engineering",
