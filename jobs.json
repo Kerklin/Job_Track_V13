@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-16T2"
+    "muted": "2026-10-17T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-16T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-16",
+    "last_ok": "2026-10-17",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-16",
+    "last_ok": "2026-10-17",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -80,10 +80,36 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "98db735d400d9956a3745503a03a672e20efca974e4b95225b94df9a7c955e56",
-  "site_time": "2026-10-17T05:01:37.669843+00:00"
+  "site_hash": "a5a27b37aa9b889bcf62b6ab1368705a0fd24149101e9d9223f32fae9e525248",
+  "site_time": "2026-10-17T09:15:19.889351+00:00"
  },
  "jobs": [
+  {
+   "title": "Technical Engineer Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343",
+   "deadline": "2026-10-28",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-17",
+   "status": "open",
+   "checked": "2026-10-17",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Mobile Test Site Project Manager, Esparto, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792191044913",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-17",
+   "status": "open",
+   "checked": "2026-10-17",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "ICT Project Manager",
    "info": "via UNjobs · infrastructure projects",
