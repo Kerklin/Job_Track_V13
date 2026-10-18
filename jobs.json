@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-17T3"
+    "muted": "2026-10-18T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-16T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-17",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-17",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,7 +64,7 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-17",
+   "day": "2026-10-18",
    "used": {
     "high": 0,
     "low": 0
@@ -74,14 +74,14 @@
    "blocked": {},
    "packs": 0
   },
-  "maint": "2026-10-17",
+  "maint": "2026-10-18",
   "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "a5a27b37aa9b889bcf62b6ab1368705a0fd24149101e9d9223f32fae9e525248",
-  "site_time": "2026-10-17T23:02:07.804633+00:00"
+  "site_hash": "27c166c7f5ed593d83912fc6f51849e389121a201c3e72a0679b526ced0ea130",
+  "site_time": "2026-10-18T00:57:05.848477+00:00"
  },
  "jobs": [
   {
@@ -535,7 +535,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-11",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -548,7 +548,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-11",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -561,7 +561,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-11",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -571,10 +571,10 @@
    "link": "https://unjobs.org/vacancies/1791602789331",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-11",
-   "status": "open",
-   "checked": "2026-10-14",
+   "status": "removed",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -584,10 +584,10 @@
    "link": "https://unjobs.org/vacancies/1791602788994",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-11",
-   "status": "open",
-   "checked": "2026-10-14",
+   "status": "removed",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -600,7 +600,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-11",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -610,10 +610,10 @@
    "link": "https://unjobs.org/vacancies/1791633706500",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (13 points)",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-11",
-   "status": "open",
-   "checked": "2026-10-14",
+   "status": "removed",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -792,10 +792,10 @@
    "link": "https://unjobs.org/vacancies/1791394751777",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13",
+   "status": "removed",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -805,10 +805,10 @@
    "link": "https://unjobs.org/vacancies/1791394768869",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13",
+   "status": "removed",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -818,10 +818,10 @@
    "link": "https://unjobs.org/vacancies/1791373293624",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13",
+   "status": "removed",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -964,7 +964,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-13",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -977,7 +977,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-13",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -1016,7 +1016,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-13",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -1055,7 +1055,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -1510,7 +1510,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-13",
+   "checked": "2026-10-18",
    "pack": "needs-link",
    "tries": 0
   },
