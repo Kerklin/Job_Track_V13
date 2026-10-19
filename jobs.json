@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-18T1"
+    "muted": "2026-10-19T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-18T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -80,10 +80,88 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "894ca29cee1ce0380fb3822df71c197ddd8f711e39c10087cfc6c4a37fefe8e4",
-  "site_time": "2026-10-19T07:06:13.927219+00:00"
+  "site_hash": "0203dc39d7ae38a728c40fd904356b3d438f40c209c04e7815099285cb157e54",
+  "site_time": "2026-10-19T14:39:04.354565+00:00"
  },
  "jobs": [
+  {
+   "title": "AI Engineer Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Structural Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792411235453",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792411231706",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Engineering Assistant, Bidibidi, Rhino Camp, Uganda",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792213286219",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "National Project Officer – Construction Engineer, Beirut",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396826266",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Consultant: Field Engineer (READY), Pohnpei",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792368028760",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Technical Engineer Consultant",
    "info": "via unvacancies · engineering",
