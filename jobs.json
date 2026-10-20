@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-18T3"
+    "muted": "2026-10-20T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-18T3"
+    "muted": "2026-10-20T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-20",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-20",
     "muted": ""
    },
    "UNOPS careers": {
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "c8fb45f14ac29c997981429e299a19dbfafe2d24b9dd848e935c59e65193cdcf",
-  "site_time": "2026-10-20T07:38:52.866153+00:00"
+  "site_hash": "d27532b80a34da230d1266b0cd57138d71c625c586187a7bf3f3daf8a19b7cb3",
+  "site_time": "2026-10-20T13:01:25.007836+00:00"
  },
  "jobs": [
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792396939881",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Assistant Architect Design, E",
    "info": "via UNjobs · construction",
