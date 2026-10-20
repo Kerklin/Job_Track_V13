@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-20T0"
+    "muted": "2026-10-20T3"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-20T0"
+    "muted": "2026-10-20T3"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-20",
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "d27532b80a34da230d1266b0cd57138d71c625c586187a7bf3f3daf8a19b7cb3",
-  "site_time": "2026-10-20T17:56:31.873391+00:00"
+  "site_hash": "0f294b1464702030f1a497703b034bf14baf4fe81a361970915bdc22f9614c06",
+  "site_time": "2026-10-20T21:30:19.907685+00:00"
  },
  "jobs": [
+  {
+   "title": "Joint Project Coordinator [Open to internal and external applicants], Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1792483244365",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
    "info": "via UNjobs · infrastructure projects",
