@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-21T1"
+    "muted": "2026-10-21T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-21T1"
+    "muted": "2026-10-21T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -51,7 +51,7 @@
    },
    "UNjobs · infrastructure projects": {
     "last_ok": "2026-10-21",
-    "muted": "2026-10-21T1"
+    "muted": ""
    },
    "UNOPS careers": {
     "last_ok": "2026-10-21",
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "2261b2308437c791b1edf696bb07f3270c08a9bc1fa5186bb6b4a539f212e757",
-  "site_time": "2026-10-21T09:41:13.901595+00:00"
+  "site_hash": "c85181f9a70cb592bbd80498c109bda5cd0ee7f9f824b765e83f6cd6e961551c",
+  "site_time": "2026-10-21T14:41:35.777962+00:00"
  },
  "jobs": [
+  {
+   "title": "WASH & Rehabilitation Officer (Roster), Aleppo, Syria",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1789738262027",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Joint Project Coordinator [Open to internal and external applicants], Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
