@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-19T3"
+    "muted": "2026-10-21T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-19T3"
+    "muted": "2026-10-21T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-21",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-21",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -64,7 +64,7 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-20",
+   "day": "2026-10-21",
    "used": {
     "high": 0,
     "low": 0
@@ -74,14 +74,14 @@
    "blocked": {},
    "packs": 0
   },
-  "maint": "2026-10-20",
+  "maint": "2026-10-21",
   "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "0f294b1464702030f1a497703b034bf14baf4fe81a361970915bdc22f9614c06",
-  "site_time": "2026-10-20T21:30:19.907685+00:00"
+  "site_hash": "2261b2308437c791b1edf696bb07f3270c08a9bc1fa5186bb6b4a539f212e757",
+  "site_time": "2026-10-21T00:05:56.620326+00:00"
  },
  "jobs": [
   {
@@ -288,7 +288,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -301,7 +301,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -314,7 +314,7 @@
    "note": "Found automatically (17 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -327,7 +327,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -340,7 +340,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -353,7 +353,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -366,7 +366,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -379,7 +379,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -678,7 +678,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -691,7 +691,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -847,7 +847,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -860,7 +860,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -896,10 +896,10 @@
    "link": "https://unjobs.org/vacancies/1791439391453",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-21)",
    "found": "2026-10-09",
-   "status": "open",
-   "checked": "2026-10-16",
+   "status": "removed",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -1627,7 +1627,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-21",
    "pack": "needs-link",
    "tries": 0
   },
@@ -1666,7 +1666,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-21",
    "pack": "needs-link",
    "tries": 0
   },
