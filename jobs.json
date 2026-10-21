@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-20T2"
+    "muted": "2026-10-21T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-20T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-21",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-21",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -80,10 +80,49 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "c85181f9a70cb592bbd80498c109bda5cd0ee7f9f824b765e83f6cd6e961551c",
-  "site_time": "2026-10-21T14:41:35.777962+00:00"
+  "site_hash": "03d0b9865db38bd4a435719be0703a8bdb96ed6051fede3a1fc51acbf8519e5d",
+  "site_time": "2026-10-21T18:58:39.607146+00:00"
  },
  "jobs": [
+  {
+   "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792584094476",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH and Construction Officer, Kinshasa",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558930105",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Advisor I-Shelter & Settlements RAPID, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558903984",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Aleppo, Syria",
    "info": "via UNjobs · infrastructure projects",
