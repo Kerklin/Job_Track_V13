@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-21T0"
+    "muted": "2026-10-22T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-21T0"
+    "muted": "2026-10-22T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "9e22828a35022421813e6b0a43cb467ac739c1b5af3193707c81d431b3d8b71a",
-  "site_time": "2026-10-22T00:44:41.588373+00:00"
+  "site_hash": "16ec40635ec9b70b488f47e6cf6bf6708cf8e51e686f63f7ab22d286f980fcd6",
+  "site_time": "2026-10-22T05:28:48.343749+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Manager, Global Housing Hub",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598",
+   "deadline": "2026-10-30",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
    "info": "via UNjobs · infrastructure projects",
