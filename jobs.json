@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-21T3"
+    "muted": "2026-10-22T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-22T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -80,10 +80,88 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "4cbd69dddebfbb5eec56afb70f9b71ffab16883024bb33e27ff8e8b2c280478f",
-  "site_time": "2026-10-22T10:34:03.046154+00:00"
+  "site_hash": "88fe0bfa36e1e40ea53bd329426595c565decb629df508afc552276d14599971",
+  "site_time": "2026-10-22T15:38:27.264880+00:00"
  },
  "jobs": [
+  {
+   "title": "Assistant Architect Design",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/assistant-architect-design-A-286594",
+   "deadline": "2026-11-02",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Engineering Analyst (Open to Tier 1 & Tier 2 Applicants), Islamabad",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792677657283",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792670561009",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792670558695",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792641704596",
+   "deadline": "2026-11-05",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Officier WASH, Muyinga, Burundi",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792645386124",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Development and Delivery of Capacity Building Programme on Public–Private Partnerships in Early Childhood Education and Care, Education Section, Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
