@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-20T3"
+    "muted": "2026-10-22T1"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-20T3"
+    "muted": "2026-10-22T1"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-21",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-22",
     "muted": ""
    }
   },
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "16ec40635ec9b70b488f47e6cf6bf6708cf8e51e686f63f7ab22d286f980fcd6",
-  "site_time": "2026-10-22T05:28:48.343749+00:00"
+  "site_hash": "4cbd69dddebfbb5eec56afb70f9b71ffab16883024bb33e27ff8e8b2c280478f",
+  "site_time": "2026-10-22T10:34:03.046154+00:00"
  },
  "jobs": [
+  {
+   "title": "Development and Delivery of Capacity Building Programme on Public–Private Partnerships in Early Childhood Education and Care, Education Section, Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1792602088105",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Project Manager, Global Housing Hub",
    "info": "via unvacancies · UN-Habitat",
