@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-22T2"
+    "muted": "2026-10-23T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-22T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-22",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-22",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -80,10 +80,49 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "e48f28b7dc035d331d0fa25b313f8650d15d63837f2f1a43ed42e97a63ccfd4e",
-  "site_time": "2026-10-23T01:00:52.798660+00:00"
+  "site_hash": "876dab7ddcbd53b753efbfa2564dfc0dc89a9fd50040e7cf8c80d20cc77f7d4d",
+  "site_time": "2026-10-23T05:58:40.798301+00:00"
  },
  "jobs": [
+  {
+   "title": "National Project Officer – Construction Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/national-project-officer-construction-engineer-OM-23633",
+   "deadline": "2026-11-02",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-23",
+   "status": "open",
+   "checked": "2026-10-23",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792732082714",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-23",
+   "status": "open",
+   "checked": "2026-10-23",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific, Suva",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792731679962",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-23",
+   "status": "open",
+   "checked": "2026-10-23",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Assistant Architect Design",
    "info": "via unvacancies · engineering",
