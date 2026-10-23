@@ -6,7 +6,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,500 are used. Shorten older roles**
 
-**93 open jobs** (🟢 30 · 🟡 54 · ⚪ 9) · AI today: 0 of 160 requests · 0 packs · 86 waiting (≈ 2 day(s)) · updated 2026-10-23 · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V13/)**
+**95 open jobs** (🟢 31 · 🟡 55 · ⚪ 9) · AI today: 0 of 160 requests · 0 packs · 88 waiting (≈ 2 day(s)) · updated 2026-10-23 · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V13/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -21,6 +21,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 🔴 7 days | 🟢 High | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) 🆕 | via UNjobs · construction | 2026-11-05 | 13 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 52 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Structural Engineer](https://unjobs.org/vacancies/1792771336977) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1792670558695) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (13 points) |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792620375334) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792620310528) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
@@ -50,6 +51,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) 🆕 | via unvacancies · engineering | 2026-11-02 | 10 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) 🆕 | via UNICEF · construction | 2026-11-05 | 13 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 15 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Project Engineer](https://unjobs.org/vacancies/1792771338232) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [SENIOR FACILITIES MANAGEMENT ASSISTANT, G7](https://unjobs.org/vacancies/1792732082714) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific, Suva](https://unjobs.org/vacancies/1792731679962) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Project Engineering Analyst (Open to Tier 1 & Tier 2 Applicants), Islamabad](https://unjobs.org/vacancies/1792677657283) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |

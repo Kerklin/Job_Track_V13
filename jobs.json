@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-23T0"
+    "muted": "2026-10-23T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-23T0"
+    "muted": "2026-10-23T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -80,10 +80,36 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "7c6a6a637f81aea29c3fc694c6f2723f05222421aeb766d7cce07e491ca21c15",
-  "site_time": "2026-10-23T19:48:36.574593+00:00"
+  "site_hash": "cd07f7bc3f1b381644e3372f4aa4fe46878867a0a51e1a172ecf3e114d2be667",
+  "site_time": "2026-10-23T22:41:39.982658+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Engineer",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792771338232",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-23",
+   "status": "open",
+   "checked": "2026-10-23",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Structural Engineer",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792771336977",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-23",
+   "status": "open",
+   "checked": "2026-10-23",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)",
    "info": "via UNICEF · construction",
