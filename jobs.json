@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-23T3"
+    "muted": "2026-10-24T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-23T3"
+    "muted": "2026-10-24T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-23",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-23",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "UNOPS careers": {
@@ -80,10 +80,36 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "7670b71be44e58a2cd1560c9197c0cbd5c8f86bb73f13f2cecea454a6e7f1fcf",
-  "site_time": "2026-10-24T17:27:27.121834+00:00"
+  "site_hash": "4890b2bdeea565afca2fded4273bad4f2dcd19f490368659d46ef81a363d2240",
+  "site_time": "2026-10-24T19:42:46.339762+00:00"
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792808752982",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Infrastructure Specialist, Manila, Philippines",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792816249783",
+   "deadline": "2026-10-28",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Shelter & Wash Project Manager Chad Iriba (national only)",
    "info": "via UNjobs · construction",
