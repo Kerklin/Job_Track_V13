@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-23T0"
+    "muted": "2026-10-24T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-24T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-23",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-23",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -80,10 +80,49 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "e7267c6a878410797b435a10ab783a318dccda82ed8dab93e3547ba81b8f7a43",
-  "site_time": "2026-10-24T01:10:03.610208+00:00"
+  "site_hash": "7670b71be44e58a2cd1560c9197c0cbd5c8f86bb73f13f2cecea454a6e7f1fcf",
+  "site_time": "2026-10-24T05:56:12.030727+00:00"
  },
  "jobs": [
+  {
+   "title": "Shelter & Wash Project Manager Chad Iriba (national only)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792774853017",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Housing Accessibility Policy and Design Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771406690",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Coordinator",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771324863",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Project Engineer",
    "info": "via UNjobs · infrastructure projects",
