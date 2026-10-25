@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-24T0"
+    "muted": "2026-10-25T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-24T0"
+    "muted": "2026-10-25T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-24",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-25",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,13 +58,13 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-25",
     "muted": ""
    }
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-24",
+   "day": "2026-10-25",
    "used": {
     "high": 0,
     "low": 0
@@ -74,16 +74,29 @@
    "blocked": {},
    "packs": 0
   },
-  "maint": "2026-10-24",
+  "maint": "2026-10-25",
   "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "0441596c567f8053e532fcd6a37cc33d1cef9fb30748821b2fc20d676eab1acf",
-  "site_time": "2026-10-24T21:57:31.609718+00:00"
+  "site_hash": "67f622ac7ffd76a7b0b7f3deb04cbf7e80f555a20c632bc25149dffa24439ece",
+  "site_time": "2026-10-25T00:12:55.953673+00:00"
  },
  "jobs": [
+  {
+   "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1792861242574",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-25",
+   "status": "open",
+   "checked": "2026-10-25",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Technical Program Manager, Facilities, South San Francisco, United States",
    "info": "via UNjobs · construction",
@@ -483,7 +496,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -493,10 +506,10 @@
    "link": "https://unjobs.org/vacancies/1792396939881",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-25)",
    "found": "2026-10-20",
-   "status": "open",
-   "checked": "2026-10-20",
+   "status": "removed",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -509,7 +522,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -522,7 +535,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -535,7 +548,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -548,7 +561,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -561,7 +574,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -886,7 +899,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -896,10 +909,10 @@
    "link": "https://unjobs.org/vacancies/1791900091937",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-10-25)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-19",
+   "status": "removed",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -912,7 +925,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -925,7 +938,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -938,7 +951,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -951,7 +964,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -1055,7 +1068,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -1692,7 +1705,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
