@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-24T3"
+    "muted": "2026-10-25T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-24T3"
+    "muted": "2026-10-25T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-25",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-25",
     "muted": ""
    },
    "UNOPS careers": {
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "055accda1b61969edaa8798a1153b2e95d0d359a30b20033e752260aa0cd532e",
-  "site_time": "2026-10-25T19:55:17.886515+00:00"
+  "site_hash": "10f154f494a882f0c06a60c960408030eb1655548648d2b304d0fb288dea10e1",
+  "site_time": "2026-10-25T22:23:50.523079+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Manager-Port Development, Walvis-Bay, Namibia",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792816421069",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-25",
+   "status": "open",
+   "checked": "2026-10-25",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), E",
    "info": "via UNjobs · construction",
