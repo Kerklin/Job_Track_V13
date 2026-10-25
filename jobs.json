@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-25T2"
+    "muted": "2026-10-25T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "67f622ac7ffd76a7b0b7f3deb04cbf7e80f555a20c632bc25149dffa24439ece",
-  "site_time": "2026-10-25T17:31:35.419014+00:00"
+  "site_hash": "055accda1b61969edaa8798a1153b2e95d0d359a30b20033e752260aa0cd532e",
+  "site_time": "2026-10-25T19:55:17.886515+00:00"
  },
  "jobs": [
+  {
+   "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), E",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771308767",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-25",
+   "status": "open",
+   "checked": "2026-10-25",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
    "info": "via UNjobs · Bosnia and Herzegovina",
