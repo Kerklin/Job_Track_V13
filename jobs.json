@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-25T2"
+    "muted": "2026-10-26T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-25T2"
+    "muted": "2026-10-26T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-25",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,13 +58,13 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-26",
     "muted": ""
    }
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-25",
+   "day": "2026-10-26",
    "used": {
     "high": 0,
     "low": 0
@@ -74,14 +74,14 @@
    "blocked": {},
    "packs": 0
   },
-  "maint": "2026-10-25",
+  "maint": "2026-10-26",
   "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "10f154f494a882f0c06a60c960408030eb1655548648d2b304d0fb288dea10e1",
-  "site_time": "2026-10-25T22:23:50.523079+00:00"
+  "site_hash": "22c7e176b1c9877e2997641d6fdadd277c1202a54706e03d6358934223bc1b04",
+  "site_time": "2026-10-26T00:34:53.189092+00:00"
  },
  "jobs": [
   {
@@ -470,7 +470,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-10-21",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -483,7 +483,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-10-21",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -496,7 +496,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-10-21",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -509,7 +509,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-10-21",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -1744,7 +1744,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -1783,7 +1783,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "needs-link",
    "tries": 0
   },
@@ -1796,7 +1796,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "retry",
    "tries": 1
   },
@@ -1835,7 +1835,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -1861,7 +1861,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -1874,7 +1874,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -1952,7 +1952,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -1965,7 +1965,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -1978,7 +1978,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
@@ -1991,7 +1991,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "needs-link",
    "tries": 0
   },
@@ -2043,7 +2043,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-26",
    "pack": "",
    "tries": 0
   },
