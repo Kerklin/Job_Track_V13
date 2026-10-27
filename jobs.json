@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-26T0"
+    "muted": "2026-10-27T1"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-26T0"
+    "muted": "2026-10-27T1"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-27",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-27",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-27",
     "muted": ""
    }
   },
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "b613395f9b8644d436d976d470b3f076bbacc031fef880348ad6d4777982b071",
-  "site_time": "2026-10-27T00:58:02.380041+00:00"
+  "site_hash": "e6b5b34229dabe30436844b0478cde63e70b115e6f56750ee0e68231a1ba8913",
+  "site_time": "2026-10-27T06:10:44.934869+00:00"
  },
  "jobs": [
+  {
+   "title": "Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563",
+   "deadline": "2026-11-08",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
    "info": "via unvacancies · engineering",

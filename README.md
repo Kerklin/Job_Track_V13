@@ -6,7 +6,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,500 are used. Shorten older roles**
 
-**100 open jobs** (🟢 30 · 🟡 60 · ⚪ 10) · AI today: 0 of 160 requests · 0 packs · 93 waiting (≈ 2 day(s)) · updated 2026-10-27 · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V13/)**
+**101 open jobs** (🟢 31 · 🟡 60 · ⚪ 10) · AI today: 0 of 160 requests · 0 packs · 94 waiting (≈ 2 day(s)) · updated 2026-10-27 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V13/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -18,6 +18,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 🔴 3 days | 🟢 High | ⏳ queued | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 🔴 3 days | 🟢 High | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) | via UNjobs · construction | 2026-11-05 | 9 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
+| [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) 🆕 | via UNICEF · construction | 2026-11-08 | 12 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [CfA 23-10/26 Field Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794) 🆕 | via unvacancies · engineering | 2026-11-08 | 12 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) 🆕 | via unvacancies · engineering | 2026-11-08 | 12 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 48 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
@@ -212,10 +213,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-27 |
 | unvacancies · UNOPS | 2026-10-25 |
 | unvacancies · UN-Habitat | 2026-10-26 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-26 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-27 |
 | UNjobs · construction | 2026-10-27 |
 | UNjobs · infrastructure projects | 2026-10-25 |
 | UNOPS careers | 2026-10-26 |
-| UNICEF · construction | 2026-10-26 |
+| UNICEF · construction | 2026-10-27 |
 
 </details>
