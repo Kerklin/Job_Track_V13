@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-27T2"
+    "muted": "2026-10-28T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-27T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,8 +46,8 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-27",
-    "muted": "2026-10-27T2"
+    "last_ok": "2026-10-28",
+    "muted": ""
    },
    "UNjobs · infrastructure projects": {
     "last_ok": "2026-10-25",
@@ -80,10 +80,101 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "9a65871c0b098f40979d3f5f256c50bc7b2198e812463723a67ff82677ac27f9",
-  "site_time": "2026-10-28T01:26:52.265046+00:00"
+  "site_hash": "5cada73d45e17b8b95bd91f29c09bf45ee396edf6725f3cbeb77c1ebb54bfbb7",
+  "site_time": "2026-10-28T07:17:29.512620+00:00"
  },
  "jobs": [
+  {
+   "title": "Housing Economist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793167466760",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793163739608",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793120569990",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH and Shelter Manager Ethiopia Dollo Ado",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793120569462",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793037691345",
+   "deadline": "2026-11-09",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793048987493",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Engineering and Shelter Team Leader, Bidibidi, Uganda",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793077258711",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563",
    "info": "via UNICEF · construction",
