@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-28T1"
+    "muted": "2026-10-28T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -80,10 +80,36 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "5cada73d45e17b8b95bd91f29c09bf45ee396edf6725f3cbeb77c1ebb54bfbb7",
-  "site_time": "2026-10-28T14:09:01.879548+00:00"
+  "site_hash": "844a4611fa347c78245b8b35cdadfb120ca35e95f447a23486a88b93df97edda",
+  "site_time": "2026-10-28T19:35:03.923133+00:00"
  },
  "jobs": [
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568",
+   "deadline": "2026-11-11",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793181721552",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (14 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Housing Economist",
    "info": "via UNjobs · construction",
