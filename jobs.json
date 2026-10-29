@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-29T1"
+    "muted": "2026-10-29T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-29T1"
+    "muted": "2026-10-29T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "e109247635fd8ce245734df5d464ee031592f69748c7f3f82e6cc4c2207e03c1",
-  "site_time": "2026-10-29T09:01:56.889721+00:00"
+  "site_hash": "808209c2da432509c3bcf21be592f98b3f289d94b9811bdeebca63031f4de1d1",
+  "site_time": "2026-10-29T16:02:02.278445+00:00"
  },
  "jobs": [
+  {
+   "title": "Solar Installation Quality Assurance Engineer, Kampala",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793268102302",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
