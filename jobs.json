@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-25T3"
+    "muted": "2026-10-29T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-25T3"
+    "muted": "2026-10-29T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "UNOPS careers": {
@@ -80,10 +80,62 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "49ee45e9fe8b89b932a4f3f2b3a7c989e1626bb324c603c501e933a126597d07",
-  "site_time": "2026-10-29T02:48:55.970276+00:00"
+  "site_hash": "e109247635fd8ce245734df5d464ee031592f69748c7f3f82e6cc4c2207e03c1",
+  "site_time": "2026-10-29T09:01:56.889721+00:00"
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793211542423",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Linear Infrastructure Ecologist, United States",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793163658534",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH & Rehabilitation Officer (Roster), Hassakah, Syria",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793047576164",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH & Rehabilitation Officer (Roster), Hamah, Syria",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793047561787",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Project Manager [Open to Tier 1 and 2 applicants], Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
