@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-29T0"
+    "muted": "2026-10-30T2"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-29T0"
+    "muted": "2026-10-30T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "ec2b6d21557e253400cad02d2131d24e7b1dbd724e0b6c6fe3ff99428ea65b68",
-  "site_time": "2026-10-30T06:51:33.564434+00:00"
+  "site_hash": "d72c2897a784f3c0f000bf95d0af10f2e0cc604a8ed937948f104262b78a1ae0",
+  "site_time": "2026-10-30T13:46:14.346367+00:00"
  },
  "jobs": [
+  {
+   "title": "Informal Settlements Urban Planning Senior Consultant",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263",
+   "deadline": "2026-11-08",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Solar Installation Quality Assurance Engineer, Kampala",
    "info": "via UNjobs · infrastructure projects",
