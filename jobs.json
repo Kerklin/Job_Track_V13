@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-30T1"
+    "muted": "2026-10-30T3"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-30T1"
+    "muted": "2026-10-30T3"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-28",
@@ -80,10 +80,23 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "d72c2897a784f3c0f000bf95d0af10f2e0cc604a8ed937948f104262b78a1ae0",
-  "site_time": "2026-10-30T13:46:14.346367+00:00"
+  "site_hash": "73cde8abcf233e190e84dc9e12954e30322489b5e4aaf55b484d400ee5c301c2",
+  "site_time": "2026-10-30T18:54:27.004448+00:00"
  },
  "jobs": [
+  {
+   "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "note": "Found automatically (16 points)",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Informal Settlements Urban Planning Senior Consultant",
    "info": "via unvacancies · UN-Habitat",

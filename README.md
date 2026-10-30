@@ -6,7 +6,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,500 are used. Shorten older roles**
 
-**100 open jobs** (🟢 26 · 🟡 60 · ⚪ 14) · AI today: 0 of 160 requests · 0 packs · 93 waiting (≈ 2 day(s)) · updated 2026-10-30 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V13/)**
+**101 open jobs** (🟢 27 · 🟡 60 · ⚪ 14) · AI today: 0 of 160 requests · 0 packs · 94 waiting (≈ 2 day(s)) · updated 2026-10-30 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V13/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -21,6 +21,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) | via unvacancies · engineering | 2026-11-08 | 9 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Civil Engineer](https://unjobs.org/vacancies/1793037691345) 🆕 | via UNjobs · construction | 2026-11-09 | 10 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) 🆕 | via unvacancies · engineering | 2026-11-11 | 12 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
+| [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705) 🆕 | via UNICEF · construction | 2026-11-12 | 13 days | 🟢 High | ⏳ queued | Found automatically (16 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 45 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [Civil Engineer (Project Management and Construction Supervision), Kabul](https://unjobs.org/vacancies/1793181721552) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (14 points) |
 | [Supply Chain Construction Manager, Bunia, Democratic Republic of Congo](https://unjobs.org/vacancies/1793163739608) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
