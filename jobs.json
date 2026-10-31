@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-28T3"
+    "muted": "2026-10-31T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-30T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,7 +64,7 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-30",
+   "day": "2026-10-31",
    "used": {
     "high": 0,
     "low": 0
@@ -74,16 +74,120 @@
    "blocked": {},
    "packs": 0
   },
-  "maint": "2026-10-30",
+  "maint": "2026-10-31",
   "vcheck": "2026-10-27",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "73cde8abcf233e190e84dc9e12954e30322489b5e4aaf55b484d400ee5c301c2",
-  "site_time": "2026-10-30T22:50:41.479774+00:00"
+  "site_hash": "1bcac55ee2ab5a3d26cbf0a68a50ab673d1a3983dca7fa7bea33321d5f8ebd09",
+  "site_time": "2026-10-31T01:56:36.339564+00:00"
  },
  "jobs": [
+  {
+   "title": "Infrastructure Field Engineer (Consultant)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797",
+   "deadline": "2026-11-12",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, occupied Palestinian territory",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793364911687",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Cryptography Evaluator Engineer, Redu, Belgium",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793365709954",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer (1 position), Libya",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793365860777",
+   "deadline": "2026-11-03",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793379654367",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Officer Senior - WASH, Port-au-Prince",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793336484540",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH & Infrastructure Coordinator, Khartoum",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793336476812",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Infrastructure Field Engineer (Consultant), Mykolaiv, Ukraine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793282444060",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
    "info": "via UNICEF · construction",
@@ -470,7 +574,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -480,10 +584,10 @@
    "link": "https://unjobs.org/vacancies/1792808752982",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-24",
+   "status": "removed",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -496,7 +600,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -509,7 +613,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -522,7 +626,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -532,10 +636,10 @@
    "link": "https://unjobs.org/vacancies/1792771324863",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-24",
+   "status": "removed",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -925,7 +1029,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -935,10 +1039,10 @@
    "link": "https://unjobs.org/vacancies/1792411235453",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-10-24",
+   "status": "removed",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -948,10 +1052,10 @@
    "link": "https://unjobs.org/vacancies/1792411231706",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-10-24",
+   "status": "removed",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -964,7 +1068,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -977,7 +1081,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -990,7 +1094,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -1159,7 +1263,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -1169,10 +1273,10 @@
    "link": "https://unjobs.org/vacancies/1792065675186",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-24",
+   "status": "removed",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
@@ -1182,10 +1286,10 @@
    "link": "https://unjobs.org/vacancies/1791867668525",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-24",
+   "status": "removed",
+   "checked": "2026-10-31",
    "pack": "",
    "tries": 0
   },
