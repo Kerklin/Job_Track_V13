@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-31T0"
+    "muted": "2026-10-31T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -80,10 +80,36 @@
    "actions/checkout@v6 → @v7"
   ],
   "outbox_tries": {},
-  "site_hash": "1bcac55ee2ab5a3d26cbf0a68a50ab673d1a3983dca7fa7bea33321d5f8ebd09",
-  "site_time": "2026-10-31T01:56:36.339564+00:00"
+  "site_hash": "31af740b3d93be4ea20f32a47f89e786a1e5a8eff99f12ab977c2d465d8e6e5a",
+  "site_time": "2026-10-31T08:19:01.056188+00:00"
  },
  "jobs": [
+  {
+   "title": "140 Assistant(e) Wash, Goma, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422887968",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422887438",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Infrastructure Field Engineer (Consultant)",
    "info": "via unvacancies · engineering",
